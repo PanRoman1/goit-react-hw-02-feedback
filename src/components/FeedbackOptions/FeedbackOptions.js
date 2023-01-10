@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types';
-import { Btn, WrapBtn } from './FeedbackOptions.steled';
+import { Btn, WrapBtn } from './FeedbackOptions.styled';
 
 export const FeedbackOptions = ({ options, onLeaveFeedback }) => {
   return (
